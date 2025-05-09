@@ -1,0 +1,4 @@
+com\hq\RedisTest.class
+com\hq\service\DataSourceTestService.class
+com\hq\DynamicDataSourceTest.class
+com\hq\JwtTest.class
